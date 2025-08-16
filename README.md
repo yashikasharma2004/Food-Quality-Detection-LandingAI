@@ -24,14 +24,12 @@ This project focuses on **detecting food quality (good vs. defective/rotten item
 - Model deployed successfully with QR code access.  
 
 ## 📷 Screenshots
-### Model Accuracy  
-![Accuracy](accuracy.png)
 
 ### Confusion Matrix  
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](CONFUSION-MATRIX.png)
 
 ### QR Code (Scan to Test Live Model)  
-![QR Demo](qr.png)
+![QR Demo](QR-1.png)
 
 👉 **How to use:** Scan the QR code above with your phone camera to test the live model.
 
